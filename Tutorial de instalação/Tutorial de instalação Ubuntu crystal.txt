@@ -1,0 +1,20 @@
+Caso queira apenas visualizar a distribuição sem instalar, na tela de boot, selecionar
+a opção "Iniciar sistema Live
+
+Tutorial de instalação Ubuntu crystal
+
+1 - Na tela de boot, selecionar a opção "Boot system installer"
+2 - Na tela seguinte, escolhero nome de usuário, usuário para login,
+senha de login e o nome da máquina. O campo "Nova senha do root" é opcional
+mas não é recomendado para o Ubuntu, então deixe em branco. Por fim clicar em
+próximo.
+3 - Na tela de "Configurações de partição", selecionar a partição de disco onde 
+o sistema será instalado e clicar em !Delete!
+4 - Selecionando a partição novamente, definir o tamanho da partição e clicar
+na seta verde onde surge a mensagem "Adicionar nova partição".
+5 - Selecionado a partição criada, em "Ponto de montagem" escolhar a opção raiz
+"/", selecionar "Transfer user configuration files", e em seguida, clicar na 
+seta verde novamente onde surge a mensagem Alterar as configurações da partição.
+Por fim clicar em próximo
+6 - Na tela seguinte clicar em "Iniciar" e o sistema será instalado.
+7 - Quando a instalação terminar, clicar em "Ok" e "Reiniciar"
