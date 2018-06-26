@@ -1,20 +1,22 @@
-Caso queira apenas visualizar a distribuiÁ„o sem instalar, na tela de boot, selecionar
-a opÁ„o "Iniciar sistema Live
+Caso queira apenas visualizar a distribui√ß√£o sem instalar, na tela de boot, selecionar
+a op√ß√£o "Iniciar sistema Live"
+nome de usu√°rio - minimal
+senha - minimal
 
-Tutorial de instalaÁ„o Ubuntu crystal
+Tutorial de instala√ß√£o Ubuntu crystal
 
-1 - Na tela de boot, selecionar a opÁ„o "Boot system installer"
-2 - Na tela seguinte, escolhero nome de usu·rio, usu·rio para login,
-senha de login e o nome da m·quina. O campo "Nova senha do root" È opcional
-mas n„o È recomendado para o Ubuntu, ent„o deixe em branco. Por fim clicar em
-prÛximo.
-3 - Na tela de "ConfiguraÁıes de partiÁ„o", selecionar a partiÁ„o de disco onde 
-o sistema ser· instalado e clicar em !Delete!
-4 - Selecionando a partiÁ„o novamente, definir o tamanho da partiÁ„o e clicar
-na seta verde onde surge a mensagem "Adicionar nova partiÁ„o".
-5 - Selecionado a partiÁ„o criada, em "Ponto de montagem" escolhar a opÁ„o raiz
+1 - Na tela de boot, selecionar a op√ß√£o "Boot system installer"
+2 - Na tela seguinte, escolhero nome de usu√°rio, usu√°rio para login,
+senha de login e o nome da m√°quina. O campo "Nova senha do root" √© opcional
+mas n√£o √© recomendado para o Ubuntu, ent√£o deixe em branco. Por fim clicar em
+pr√≥ximo.
+3 - Na tela de "Configura√ß√µes de parti√ß√£o", selecionar a parti√ß√£o de disco onde 
+o sistema ser√° instalado e clicar em !Delete!
+4 - Selecionando a parti√ß√£o novamente, definir o tamanho da parti√ß√£o e clicar
+na seta verde onde surge a mensagem "Adicionar nova parti√ß√£o".
+5 - Selecionado a parti√ß√£o criada, em "Ponto de montagem" escolhar a op√ß√£o raiz
 "/", selecionar "Transfer user configuration files", e em seguida, clicar na 
-seta verde novamente onde surge a mensagem Alterar as configuraÁıes da partiÁ„o.
-Por fim clicar em prÛximo
-6 - Na tela seguinte clicar em "Iniciar" e o sistema ser· instalado.
-7 - Quando a instalaÁ„o terminar, clicar em "Ok" e "Reiniciar"
+seta verde novamente onde surge a mensagem Alterar as configura√ß√µes da parti√ß√£o.
+Por fim clicar em pr√≥ximo
+6 - Na tela seguinte clicar em "Iniciar" e o sistema ser√° instalado.
+7 - Quando a instala√ß√£o terminar, clicar em "Ok" e "Reiniciar"
